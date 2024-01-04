@@ -7,7 +7,7 @@ body {
   right: 20px;
   width: 38px; /* Width of image */
   height: 38px; /* Height of image */
-  background: url(../images/top.png) no-repeat;
+  background: url(../images/top.jpeg) no-repeat;
 }
 
 .top-heading {
@@ -84,7 +84,7 @@ body {
 }
 
 .navbar-default .navbar-brand {
-	background-image:url("../images/logo.png");
+	background-image:url("../images/logo.jpeg");
 	background-repeat: no-repeat;
 	width: 200px;
 	height: 60px;
@@ -93,7 +93,7 @@ body {
 
 @media screen and (max-width: 991px) {
 .navbar-default .navbar-brand {
-	background-image:url("../images/small-logo.png");
+	background-image:url("../images/small-logo.jpeg");
 	background-repeat: no-repeat;
 	width: 160px;
 	height: 60px;
